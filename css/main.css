@@ -2036,7 +2036,7 @@ header .logo a {
 	text-align: center;
 }
 #cta p.lead {
-	color: #6e6e6e;
+	color: #ece7e7;
 }
 .cta-content {
 	max-width: 640px;
@@ -2254,7 +2254,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #151515;
+	background: #1e1616;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
