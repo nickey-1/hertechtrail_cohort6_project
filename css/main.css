@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #2f2e2e url(../images/intro-bg.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1325,8 +1325,8 @@ header .logo a {
 	transform: translateY(-2.1rem);
 }
 .intro-content h1 {
-	color: #FFFFFF;
-	font-family: "poppins-medium", sans-serif;
+	color: #9a9696;
+	font-family: sans-serif;
 	font-size: 8.4rem;
 	line-height: 1.071;
 	max-width: 900px;
@@ -1490,7 +1490,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #about {
-	background: #b7afaf;
+	background: #696868;
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
@@ -2254,7 +2254,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #1e1616;
+	background: #2f2e2e;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
