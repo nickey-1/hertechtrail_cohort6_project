@@ -15,7 +15,7 @@ Home page || About page || Contact Page || Portfolio Page
 The Home page is a welcome page more like a receptionist in real life sense. 
 It appeals to the viewers and give the website vistors a general overview of the site.
 
-The About Section gives general details about me such as information aboutmy identity and skills.
+The About Section gives general details about me such as information abou tmy identity and skills.
 
 The Contact page contains my contact details ,it reflects where to find me.
 
@@ -39,6 +39,6 @@ Coach Jesse Josiah, Coach Jenna Nkemdili.
 -------------------------------------------------------------------------------------------------------
 
 
-
+Lastly, I'm open to contribution, thank you
 
 
