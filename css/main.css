@@ -1812,6 +1812,7 @@ header .logo a {
 #portfolio .folio-item img {
 	vertical-align: middle;
 height: 200px;
+width: 300px;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	-webkit-transition: all 0.5s ease-in-out;
@@ -1835,8 +1836,7 @@ height: 200px;
 
 #portfolio .folio-item-table {
 	display: table;
-	width: 100%;
-	height: 100%;
+	column-gap: 50px;
 
 }
 /*.item-wrap img{
